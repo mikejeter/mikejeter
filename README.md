@@ -24,7 +24,7 @@ Bringing forth expertise in design, installation, testing and maintenance of web
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 
 - 📫 How to reach me: 
-   - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [MYHOSTSTREAM](https://myhoststream.net/):  </a>
+   - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [MYHOSTSTREAM](https://michael-jeter.com/):  </a>
 
 <img title="My status" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=mikejeter&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
 
